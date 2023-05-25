@@ -4,7 +4,7 @@
  * iniciada por el otro nodo 'maestro'.
  * Funciona en Arduino Uno, Nano, Mega, ESP32 y similares.
  * Para un ejemplo de comunicación serial con Python, consultar:
- * https://github.com/cmoralesd/serial-control
+ * https://github.com/cmoralesd/serial-comm
  */
 
 
