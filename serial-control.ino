@@ -8,7 +8,6 @@
  * IMPORTANTE: Utilizar Arduino IDE 2.0 o superior. No compatible con versiones previas.
  */
 
-
 // parámetros de la tarjeta
 #define led_0  5  // led verde
 #define led_1  6  // led rojo
